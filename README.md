@@ -1,6 +1,6 @@
 # lita-polite
 
-*lita-polite* is a handler for [Lita](https://github.com/jimmycuadra/lita) that responds politely.
+**lita-polite** is a handler for [Lita](https://github.com/jimmycuadra/lita) that responds politely.
 
 ## Installation
 
